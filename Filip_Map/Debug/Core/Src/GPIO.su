@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Core/Src/GPIO.c:57:11:create_mask	16	static
+../Core/Src/GPIO.c:71:8:init_port	56	static
+../Core/Src/GPIO.c:265:11:read_pins	24	static
+../Core/Src/GPIO.c:303:6:read_pins_analog	24	static
+../Core/Src/GPIO.c:357:10:read_single_pin	24	static
+../Core/Src/GPIO.c:387:7:write_pins	24	static
+../Core/Src/GPIO.c:423:7:write_single_pin	24	static
+../Core/Src/GPIO.c:467:7:EXTI0_IRQHandler	8	static
+../Core/Src/GPIO.c:469:7:EXTI1_IRQHandler	8	static
+../Core/Src/GPIO.c:471:7:EXTI2_IRQHandler	8	static
+../Core/Src/GPIO.c:473:7:EXTI3_IRQHandler	8	static
+../Core/Src/GPIO.c:475:7:EXTI4_IRQHandler	8	static
+../Core/Src/GPIO.c:479:7:EXTI9_5_IRQHandler	16	static
+../Core/Src/GPIO.c:500:7:EXTI15_10_IRQHandler	16	static
+../Core/Src/GPIO.c:526:7:enable_interupt	24	static,ignoring_inline_asm

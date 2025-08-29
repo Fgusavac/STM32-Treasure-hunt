@@ -1,0 +1,5 @@
+../Core/Src/LED_MATRIX.c:21:6:matrixInit	8	static
+../Core/Src/LED_MATRIX.c:31:6:pattern1	16	static
+../Core/Src/LED_MATRIX.c:39:6:pattern2	16	static
+../Core/Src/LED_MATRIX.c:47:6:pattern3	16	static
+../Core/Src/LED_MATRIX.c:55:6:empty_matrix	16	static

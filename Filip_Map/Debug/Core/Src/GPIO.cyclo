@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Core/Src/GPIO.c:57:11:create_mask	1
+../Core/Src/GPIO.c:71:8:init_port	7
+../Core/Src/GPIO.c:265:11:read_pins	2
+../Core/Src/GPIO.c:303:6:read_pins_analog	4
+../Core/Src/GPIO.c:357:10:read_single_pin	3
+../Core/Src/GPIO.c:387:7:write_pins	1
+../Core/Src/GPIO.c:423:7:write_single_pin	3
+../Core/Src/GPIO.c:467:7:EXTI0_IRQHandler	2
+../Core/Src/GPIO.c:469:7:EXTI1_IRQHandler	2
+../Core/Src/GPIO.c:471:7:EXTI2_IRQHandler	2
+../Core/Src/GPIO.c:473:7:EXTI3_IRQHandler	2
+../Core/Src/GPIO.c:475:7:EXTI4_IRQHandler	2
+../Core/Src/GPIO.c:479:7:EXTI9_5_IRQHandler	4
+../Core/Src/GPIO.c:500:7:EXTI15_10_IRQHandler	4
+../Core/Src/GPIO.c:526:7:enable_interupt	4
