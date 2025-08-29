@@ -82,7 +82,7 @@ Progress continues until all segments are revealed and the **full theme** plays 
 
 ### How to Run  
 
-### 1) **Clone the Repository**  
+# 1) **Clone the Repository**  
    ```bash
    git clone https://github.com/Fgusavac/STM32-Treasure-hunt.git
 
