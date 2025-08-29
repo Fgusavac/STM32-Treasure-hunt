@@ -82,24 +82,24 @@ Progress continues until all segments are revealed and the **full theme** plays 
 
 ### How to Run  
 
-1) **Clone the Repository**  
+ **Clone the Repository**  
    ```bash
    git clone https://github.com/Fgusavac/STM32-Treasure-hunt.git
-'''
-### 2) Flash to STM32 Board
+
+### 1) Flash to STM32 Board
 - Connect the **STM32** board via **USB**
 - Click the **Run/Debug** button in CubeIDE to program the microcontroller
 
-### 3) Connect to Serial Monitor
+### 2) Connect to Serial Monitor
 - Open a terminal program (e.g., **Minicom**, **PuTTY** )
 - Set **baud** to **115200**, **8 data bits**, **no parity**, **1 stop bit** (**8N1**)
 
-### 4) Wire the Hardware
+### 3) Wire the Hardware
 - **Buttons:** Connect two push buttons to **PA0** and **PB1** (with **pull-up resistors**)
 - **LED Matrix (MAX7219):** Connect to **SPI1** pins — **DIN: PA7**, **CLK: PA5**, **CS: PA4** (plus **5V** and **GND**)
 - **Piezo Buzzer:** Connect to **PA8** (**TIM1 PWM output**) and **GND**
 
-### 5) Play the Game
+### 4) Play the Game
 - On **run**, the game begins automatically
 - Follow **USART prompts** and use the buttons to progress
 - **Correct inputs** reveal the map and play theme segments
