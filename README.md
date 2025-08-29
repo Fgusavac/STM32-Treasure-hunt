@@ -85,7 +85,7 @@ Progress continues until all segments are revealed and the **full theme** plays 
 # 1) **Clone the Repository**  
    ```bash
    git clone https://github.com/Fgusavac/STM32-Treasure-hunt.git
-
+'''
 ### 2) Flash to STM32 Board
 - Connect the **STM32** board via **USB**
 - Click the **Run/Debug** button in CubeIDE to program the microcontroller
