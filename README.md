@@ -3,7 +3,7 @@ An interactive game using button interrupts and USART prompts. Correct inputs re
 
 
 ### 📖 Overview  
-This module forms the **Treasure Map & Music** component of a pirate minigame 
+This module forms the **Treasure Map & Music** component of a pirate minigame.
 Players interact through **two external buttons**, responding to prompts delivered over **USART**. Correct responses reveal sections of a treasure map on the LED matrix and play segments of the *Pirates of the Caribbean* theme.  
 
 - ✅ Correct input → map progresses + partial theme segment plays  
